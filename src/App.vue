@@ -3,6 +3,7 @@
     <div>新功能修改</div>
     <div>这是在pre_release_20200706分支下的修改</div>
     <div>在hot-fix分支下对bug进行修复---</div>
+    <div>在hot-fix分支下对bug进行修复，并使用sourcetree推送</div>
   </div>
 </template>
 
