@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    新功能修改
+    <div>新功能修改</div>
+    <div>这是在pre_release_20200706分支下的修改</div>
   </div>
 </template>
 
